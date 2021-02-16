@@ -3,6 +3,8 @@
 
 ![](banner.jpeg)
 
+
+<!--
 <img src="banner.jpeg" style="
     position: fixed !important;
     top: 0 !important;
@@ -13,7 +15,6 @@
     pointer-events: none !important;
     opacity: 0.1 !important;">
 
-<!--
 
 ### Hi there 👋
 

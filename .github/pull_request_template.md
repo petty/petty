@@ -1,11 +1,14 @@
+## Issue ticket number and link
 
-Before submitting this PR, please make sure:
+## Checklist before requesting a review
 
-- [ ] Your code builds clean without any errors or warnings
+- [ ] PR name includes ticket % description
+- [ ] Code was tested with CMS locally (validating gradle build)
+- [ ] Code was tested in Styleguide -- if applicable
+- [ ] Configuration changes don't alter Style selection defaults
 - [ ] You are using adhering to our coding standards
-- [ ] You have added tests as necessary
 
-For the reviewer:
+## For the reviewer:
 
 - [ ] Author is using adhering to our coding standards
 - [ ] All feedback has been addressed or resolved

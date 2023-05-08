@@ -6,9 +6,10 @@
 					max-width: 100%;
           				overflow-x: clip;
 				}
-        			img.banner {
+        			div.banner-container img {
           				display: block;
           				transform: scale(1.25);
+					filter: drop-shadow(10px 10px 4px rgba(0, 0, 0, 0.5));
         			}
 			</style>
 		</div>

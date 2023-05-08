@@ -5,10 +5,12 @@
 			<style>
 				.container {
 					aspect-ratio: 600 / 190;
+					max-width: 100%;
+					overflow: hidden;
 				}
 			</style>
 			<div class="container">
-				<img src='/petty/petty/raw/main/banner.jpeg' />
+				<image width="6000" height="1895" src='/petty/petty/raw/main/banner.jpeg' />
 			</div>
 		</div>
 	</foreignObject>

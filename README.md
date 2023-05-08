@@ -1,2 +1,4 @@
 
+![](banner.svg)
+
 ![](banner.jpeg)

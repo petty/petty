@@ -5,10 +5,10 @@
 			<style>
 				.container {
 					aspect-ratio: 600 / 190;
-					background-image: url('/petty/petty/raw/main/banner.jpeg');
 				}
 			</style>
 			<div class="container">
+				<img src='/petty/petty/raw/main/banner.jpeg' />
 			</div>
 		</div>
 	</foreignObject>

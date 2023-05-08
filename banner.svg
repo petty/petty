@@ -5,6 +5,7 @@
 				.entry-content {
 					max-width: 100%;
           				overflow-x: clip;
+					border: 2px solid dodgerblue;
 				}
         			.entry-content img {
           				display: block;

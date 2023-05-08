@@ -1,3 +1,4 @@
-<img src="/petty/petty/raw/main/banner.svg" alt="">
+![](banner.svg)
 
-<img src="/petty/petty/raw/main/banner.jpeg" alt="" style="max-width: 100%;">
+![](banner.jpeg)
+

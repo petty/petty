@@ -12,7 +12,7 @@
         }
 			</style>
 			<div class="container">
-				<img src="banner.jpeg">
+				<img src="./banner.jpeg">
 			</div>
 	</foreignObject>
 </svg>

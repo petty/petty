@@ -1,19 +1,17 @@
-<svg fill="none" viewBox="0 0 6000 1895" width="6000" height="1895" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 1 1" width="1" height="1" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				.container {
+				div.banner-container {
 					max-width: 100%;
-          overflow-x: clip;
+          				overflow-x: clip;
 				}
-        img {
-          display: block;
-          transform: scale(1.25);
-        }
+        			img.banner {
+          				display: block;
+          				transform: scale(1.25);
+        			}
 			</style>
-			<div class="container">
-				<img src="./banner.jpeg">
-			</div>
+		</div>
 	</foreignObject>
 </svg>
   
